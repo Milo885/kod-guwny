@@ -7,7 +7,8 @@
         "microphone": "*",
         "audio-recording": "*",
         "microturtle": "github:microsoft/pxt-microturtle#v0.0.9",
-        "radio-broadcast": "*"
+        "radio-broadcast": "*",
+        "TobbieII": "github:kaku111/pxt-tobbieii#v2.0.3"
     },
     "files": [
         "main.blocks",
